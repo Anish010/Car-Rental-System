@@ -1,0 +1,12 @@
+TATA:
+
+Specifications:
+
+==========================================================================================================================================
+SL.NO |	Model Name       | Mileage     |   Engine    |   Model Number   |  Number Plate   |     Color      |  Rate per days  |  Capacity |
+==========================================================================================================================================
+1.    |  Tiago           | 23.84 kmpl  |   1199 cc   |     TA124        |  IND K43722     |      BLUE      |     Rs. 2220    |  5 seats  |
+2.    |  Tigor           | 20.30 kmpl  |   1199 cc   |     TA231        |  IND L63502     |      WHITE     |     Rs. 2430    |  5 seats  |
+3.    |  Bolt            | 17.57 kmpl  |   1193 cc   |     TA234        |  IND M19009     |      WHITE     |     Rs. 3800    |  5 seats  |
+4.    |  Sumo            | 14.7 kmpl   |   2956 cc   |     TA245        |  IND N54602     |      WHITE     |     Rs. 4600    |  5 seats  |
+5.    |  Sumo            | 14.7 kmpl   |   2956 cc   |     TA423        |  IND O92383     |      BLACK     |     Rs. 4600    |  5 seats  |

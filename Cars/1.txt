@@ -1,0 +1,12 @@
+HONDA:
+
+Specifications:
+
+==========================================================================================================================================
+SL.NO |	Model Name       | Mileage     |   Engine    |   Model Number   |  Number Plate   |     Color      |  Rate per days  |  Capacity |
+==========================================================================================================================================
+1.    |  Brio            | 18.50 kmpl  |   1198 cc   |     HO124        |  IND A03722     |      BLUE      |     Rs. 2120    |  5 seats  |                    
+2.    |  Amaze           | 17.80 kmpl  |   1198 cc   |     HO231        |  IND L13542     |      WHITE     |     Rs. 2530    |  5 seats  |  
+3.    |  Jazz            | 17.57 kmpl  |   1199 cc   |     HO234        |  IND D09019     |      RED       |     Rs. 2460    |  5 seats  |   
+4.    |  City            | 17.40 kmpl  |   1497 cc   |     HO245        |  IND N54302     |      RED       |     Rs. 3100    |  5 seats  |   
+5.    |  WRV             | 17.50 kmpl  |   1199 cc   |     HO423        |  IND C92353     |      WHITE     |     Rs. 2890    |  5 seats  |                       

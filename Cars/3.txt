@@ -1,0 +1,12 @@
+Hyundai:
+
+Specifications:
+
+==========================================================================================================================================
+SL.NO |	Model Name       | Mileage     |   Engine    |   Model Number   |  Number Plate   |     Color      |  Rate per days  |  Capacity |
+==========================================================================================================================================
+1.    |  Creta           | 15.29 kmpl  |   1591 cc   |     HY124        |  IND F80822     |      GREEN     |     Rs. 2540    |  5 seats  |                    
+2.    |  I20 Active      | 17.19 kmpl  |   1197 cc   |     HY231        |  IND G03302     |      WHITE     |     Rs. 2140    |  5 seats  |  
+3.    |  Eon Era Plus    | 20.3 kmpl   |    998 cc   |     HY234        |  IND H20299     |      RED       |     Rs. 1800    |  5 seats  |   
+4.    |  Eon Magna Plus  | 21.1 kmpl   |    814 cc   |     HY245        |  IND I01909     |      WHITE     |     Rs. 2600    |  5 seats  |   
+5.    |  Xcent           | 19.1 kmpl   |   1197 cc   |     HY423        |  IND J02348     |      BLUE      |     Rs. 2850    |  5 seats  |                       

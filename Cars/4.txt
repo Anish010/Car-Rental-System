@@ -1,0 +1,12 @@
+Maruti Suzuki:
+
+Specifications:
+
+=======================================================================================================================================
+SL.NO |	Model Name    | Mileage    |	Engine    |   Model Number   |  Number Plate   |     Color      |  Rate per days  |  Capacity |
+=======================================================================================================================================
+1.    |  Omni         | 16.8 kmpl  |	 796 cc   |     MS124        |  IND A83832     |      RED       |     Rs. 1540    |  5 seats  |
+2.    |  Eeco         | 16.2 kmpl  |    1196 cc   |     MS231        |  IND B29302     |      BLUE      |     Rs. 2100    |  5 seats  |
+3.    |  Celerio      | 23.1 kmpl  |     998 cc   |     MS234        |  IND C38299     |      WHITE     |     Rs. 2300    |  5 seats  |
+4.    |  Dzire        | 22.0 kmpl  |    1197 cc   |     MS245        |  IND D01203     |      WHITE     |     Rs. 1600    |  5 seats  |
+5.    |  Ertiga       | 17.5 kmpl  |    1373 cc   |     MS423        |  IND E54343     |      BLACK     |     Rs. 3450    |  7 seats  |
